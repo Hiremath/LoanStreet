@@ -8,3 +8,8 @@ LOAN-4 #fixed
 LOAN-5 #Fixed
 LOAN-6 # Fixed as per requirement changed the library file 
 LOAN-1 # Changed the loop 
+LOAN-7 # Commercial LOAN code is updated 
+
+for (i=0; i>=10; i++)
+{ printif(%str, & Commercial laon)
+}
