@@ -9,3 +9,6 @@ LOAN-5 #Fixed
 ***************************************************
 As discussed updated the code for LOAN-1  and LOAN-2
 
+**********************************************
+LOAN-6 and LOAN-7 # Issues are fixed 
+
